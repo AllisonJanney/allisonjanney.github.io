@@ -1,0 +1,25 @@
+element.style {
+}
+
+img[Attributes Style] {
+    width: 640px;
+    aspect-ratio: auto 640 / 266;
+    height: 266px;
+}
+
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+strong {
+    font-weight: bold;
+}
